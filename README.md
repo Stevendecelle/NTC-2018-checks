@@ -1,8 +1,24 @@
 # NTC-2018-checks
-The programs aim to make NTC 2018 structural verifications.
+Suit di verifiche secondo NTC2018
 
-The input for the programs comes from various software packages. 
+Parte generale: 
+- Function per il calcolo delle caratteristiche geometriche
+  - Sezione rettangolare
+  - Insieme di sezioni rettangolari
+  - Sezione generica da coordinate
+  - 
+- 
 
-The verifications are performed in fortran and python.
+Verifiche Acciaio:
+- Database sezioni
 
-The output is summarized in excel spreadsheets.
+
+Verifiche c.a.:
+Sezione rettangolare/solette
+- SLU
+  - M
+  - M-N
+  
+- SLE
+  - Msle rara
+  - Msle qp
