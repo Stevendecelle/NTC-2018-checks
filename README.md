@@ -6,8 +6,8 @@ Parte generale:
   - Sezione rettangolare
   - Insieme di sezioni rettangolari
   - Sezione generica da coordinate
+  - Sezione mista 
   - 
-- 
 
 Verifiche Acciaio:
 - Database sezioni
@@ -18,7 +18,7 @@ Sezione rettangolare/solette
 - SLU
   - M
   - M-N
-  
+  - Mx-My
 - SLE
   - Msle rara
   - Msle qp
